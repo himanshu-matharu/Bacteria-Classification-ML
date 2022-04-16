@@ -11,6 +11,11 @@ The notebook contains the code for training Machine Learning Algorithms for clas
 [Bacteria Classification Main.ipynb](https://github.com/himanshu-matharu/Bacteria-Classification-ML/blob/main/Bacteria%20Classification%20Main.ipynb)
 ### Dataset used: [data.csv](https://drive.google.com/file/d/1SICwgX0UOLSM3BKGpWb1Sf1JqMj54STW/view?usp=sharing)
 
+### Hyperparameter Tuning:
+Most of the tuning was done with manual searching, as grid search was taking a lot of time. Code for the methodical searches are available here
+- [GridSearch](https://github.com/himanshu-matharu/Bacteria-Classification-ML/blob/main/GridSearch%20Hyperparameter%20Tuning.ipynb)
+- [NN hidden layer tuning](https://github.com/himanshu-matharu/Bacteria-Classification-ML/blob/main/NeuralNetwork%20-%20hidden%20layer%20tuning.ipynb)
+
 ## Machine Learning Algorithms Used
 
 - Logistic Regression
